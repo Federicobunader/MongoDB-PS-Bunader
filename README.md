@@ -38,6 +38,6 @@ mvn test
 
 The application exposes the following endpoints:
 
-GET /members: Lists all members.
-GET /members/{id}: Gets a member by their ID.
-POST /members: Creates a new member.
+1. GET /members: Lists all members.
+2. GET /members/{id}: Gets a member by their ID.
+3. POST /members: Creates a new member.
