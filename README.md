@@ -24,6 +24,7 @@ mvn clean install
 ## Running the Application
 1. Open a terminal at the root of the project.
 2. Run the following command:
+3. You NEED to have a MongoDB instance running on localhost:27017
 
 java -jar target/kitchensink-with-spring-boot-0.0.1-SNAPSHOT.jar
 
